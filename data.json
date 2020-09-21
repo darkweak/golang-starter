@@ -1,0 +1,9 @@
+{
+  "first_field": "This is a string",
+  "second_field": "Another string",
+  "thirdField": 43,
+  "fourthField": {
+    "key": "myKey",
+    "value": "awesome value"
+  }
+}
